@@ -4,7 +4,7 @@ import "./globals.css";
 import { RiTodoLine } from "react-icons/ri";
 import AddTodo from "@/components/add-todo";
 import { Todos } from "@/components/todos";
-// thapa technical SUBSCRIBE
+
 const Page = () => {
     return (
       <main>
